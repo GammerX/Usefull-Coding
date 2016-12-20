@@ -6,4 +6,5 @@ def avd_1st_space(string):
 str = "       Hello, i\'m a horse !"
 
 print(avd_1st_space(str))
->>> Hello, i'm a horse !
+
+[OUTPUT] --> "Hello, i'm a horse !"
