@@ -7,4 +7,4 @@ str = "       Hello, i\'m a horse !"
 
 print(avd_1st_space(str))
 
-[OUTPUT] --> "Hello, i'm a horse !"
+# [OUTPUT] --> "Hello, i'm a horse !"
